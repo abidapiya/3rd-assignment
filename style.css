@@ -30,6 +30,10 @@ body {
     opacity: 0.6 !important;
 }
 
+footer a {
+    text-decoration: none !important;
+}
+
 @media (max-width:576px) {
     .sub img {
         max-width: 100% !important;
