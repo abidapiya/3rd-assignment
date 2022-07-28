@@ -19,7 +19,7 @@ body {
 }
 
 .carousel-item::before {
-    content: "background-color" !important;
+    content: "" !important;
     display: block !important;
     position: absolute;
     top: 0;
